@@ -1,0 +1,19 @@
+# → paste into misamabbas.github.io/_data/publications.yml
+- title: Matched Pair Calibration for Ranking Fairness
+  publication: arXiv (CoRR)
+  type: Research Article
+  date: 2023‑11‑30
+  link: https://arxiv.org/abs/2306.03775
+  summary: >-
+    Introduces matched‑pair calibration, a test that measures subgroup‑level
+    exposure bias in score‑based ranking systems by comparing outcomes of
+    near‑identical item pairs.﻿:contentReference[oaicite:5]{index=5}
+
+- title: Computer Method and System for Equity Financing by Retail Investors with Collective Due Diligence Funding
+  publication: US Patent 7,827,081
+  type: Patent
+  date: 2010‑11‑02
+  link: https://patents.justia.com/patent/7827081
+  summary: >-
+    Describes a platform that lets retail investors pool commitments and due‑
+    diligence costs to acquire private‑equity stakes in startups.﻿:contentReference[oaicite:6]{index=6}
