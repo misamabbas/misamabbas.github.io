@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Staff AI Engineer At LinkedIn
+- company: LinkedIn
+  position: Staff AI Engineer
+  duration: July 2024 - Present
+  summary: GenAI Safety - Alignment, Moderation and Monitoring
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Senior Machine Learning Engineer At Dropbox
+- company: Dropbox
+  position: Senior Machine Learning Engineer
+  duration:  May 2023 - July 2025
+  summary: Team lead for Dash.ai , an AI-powered search and answers system
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Software Engineer(Machine Learning) at Meta
+- company: Meta (previously Facebook)
+  position: Software Engineer(Machine Learning)
+  duration:  October 2018 - September 2022
+  summary: Universal user representations, user interest modeling, recommender systems and fairness
