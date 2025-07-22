@@ -20,10 +20,16 @@ resume_contact_email:           "gmail@misamabbas.com"
 resume_contact_telephone:       "-----"
 resume_contact_address:         "Greater NY Area"
 
-resume_header_contact_info:     "gmail@misamabbas.com"
+resume_header_contact_info:     "m@misamabbas.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Misam Abbas is a Staff AI Engineer at LinkedIn currently working on GenAI Safety. With over a decade of experience building large-scale ML systems, he has made significant contributions at Meta and Dropbox. At Meta, he developed user representation models serving billions and created fairness metrics for recommender systems adopted platform-wide. At Dropbox, he laid the foundations of Dash.ai's AI-powered universal search. A conference speaker and co-author of ranking fairness research, his work eliminates critical bottlenecks to AI adoption while ensuring responsible deployment. He holds an MBA from London Business School and B.Tech in Computer Science from IIT Delhi.</p>"
+resume_header_intro:  >-
+  Misam Abbas is a Staff AI Engineer at LinkedIn currently working on GenAI Safety. 
+  With over a decade of experience building large-scale ML systems, he has made significant contributions at Meta and Dropbox. 
+  At Meta, he developed user representation models serving billions and created fairness metrics for recommender systems with wide adoption. 
+  At Dropbox, he laid the foundations of Dash.ai's AI-powered universal search. 
+  A conference speaker and co-author of ranking fairness research, his work eliminates critical bottlenecks to AI adoption while ensuring responsible deployment. 
+  He holds an MBA from London Business School and B.Tech in Computer Science from IIT Delhi.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,10 +44,11 @@ resume_section_education:       true
 resume_section_conferences:   true
 resume_section_publications:  true
 resume_section_associations:    true
+resume_section_links:           true
+
 # resume_section_projects:        true
 # resume_section_skills:          true
 # resume_section_recognition:     true
-# resume_section_links:           true
 # resume_section_interests:       true
 
 

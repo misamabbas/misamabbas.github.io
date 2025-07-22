@@ -3,6 +3,7 @@
   venue: Washington DC
   date: 2025-03-05
   topic: "Panel - Highly regulated environments: optimising generative AI systems in compliance-critical industries"
+  link: https://world.aiacceleratorinstitute.com/location/washington/speaker/misamabbas
   summary: >-
     Finance and healthcare leaders discussed the technical and regulatory hurdles
     of launching GenAI while meeting strict data-control and audit standards.
@@ -11,6 +12,7 @@
   venue: Washington DC
   date: 2025-03-05
   topic: "Panel - Explainable AI & today's ethical challenges: balancing innovation, regulation and first-mover advantage"
+  link: https://world.aiacceleratorinstitute.com/location/washington/speaker/misamabbas
   summary: >-
     Explored transparency, fairness and accountability trade-offs when shipping
     LLM products under emerging AI-governance regimes.
@@ -19,6 +21,7 @@
   venue: Virtual (Lu.ma)
   date: 2025-04-03
   topic: Ask-Me-Anything with Misam Abbas
+  link: https://lu.ma/72za2tal
   summary: >-
     Wide-ranging Q&A on large-scale ML, LLM safety and career advice for AI
     practitioners.
@@ -26,6 +29,7 @@
 - organization: SoCal AI Responsibility Summit
   venue: UCLA, Los Angeles
   date: 2025-04-19
+  link: https://ucla-sairs.webflow.io/
   topic: "Panel - Data-Driven Innovation"
   summary: Student-led discussion on responsible data practices for GenAI.
 
@@ -33,6 +37,7 @@
   venue: Virtual
   date: 2025-05-29
   topic: "Panel - Tackling hallucinations, drift & data decay at scale"
+  link: https://virtual.aiacceleratorinstitute.com/speaker/misamabbas
   summary: >-
     Shared strategies to detect prompt and embedding drift, and to design
     feedback loops that surface real-world hallucinations before they reach end
@@ -42,6 +47,7 @@
   venue: New York
   date: 2025-06-05
   topic: Talk - LLM System Evaluation the only moat in the GenAI era
+  link: https://world.aiacceleratorinstitute.com/location/caionewyork/speaker/misamabbas
   summary: >-
     Presented a framework for objective-driven evaluation pipelines, mixing
     golden sets and automated scoring to accelerate model iteration.

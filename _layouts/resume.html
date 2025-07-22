@@ -107,7 +107,13 @@
 
       {% for conf in site.data.conferences %}
       <div class="resume-item" itemscope itemtype="http://schema.org/Event">
-        <h3 class="resume-item-title" itemprop="name">{{ conf.topic }}</h3>
+        <h3 class="resume-item-title">
+          {% if conf.link %}
+          <a href="{{ conf.link }}" target="_blank" rel="noopener">{{ conf.topic }}</a>
+          {% else %}
+          {{ conf.topic }}
+          {% endif %}
+        </h3>
         <h4 class="resume-item-details">
           {{ conf.organization }} • {{ conf.venue }} • {{ conf.date }}
         </h4>

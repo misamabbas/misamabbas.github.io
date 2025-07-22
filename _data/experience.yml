@@ -3,16 +3,31 @@
 - company: LinkedIn
   position: Staff AI Engineer
   duration: July 2024 - Present
-  summary: GenAI Safety - Alignment, Moderation and Monitoring
+  summary: >-
+    As the technical lead for GenAI safety, I ensure the safe deployment of Gen AI across LinkedIn. 
+    I lead the architecture and development comprehensive frameworks for real-time 
+    LLM moderation and monitoring.
+
 
 # Senior Machine Learning Engineer At Dropbox
 - company: Dropbox
   position: Senior Machine Learning Engineer
   duration:  May 2023 - July 2025
-  summary: Team lead for Dash.ai , an AI-powered search and answers system
+  summary: >- 
+    Team lead for Dash.ai , an AI-powered search and answers system
+    As the ML Tech Lead for Dash.ai, I led the retrieval effort for dash.ai, Dropbox's AI-powered universal search product. 
+    I built the search capability from the ground up, architecting a hybrid system combining lexical and vector search.
+    Established the ML flywheel for search, including retrieval, ranking, evaluation, metrics, and experimentations.
+
 
 # Software Engineer(Machine Learning) at Meta
 - company: Meta (previously Facebook)
   position: Software Engineer(Machine Learning)
   duration:  October 2018 - September 2022
-  summary: Universal user representations, user interest modeling, recommender systems and fairness
+  summary: >-
+    At Meta, I worked on personalization, and user representation models and fairness in recommender systems , delivering significant, 
+    measurable impact on systems affecting billions of users.
+    Led a User Interest Modeling project that enabled a key partner team to achieve a 20% improvement on their primary metric 
+    by adapting user representation technology for interest modeling. 
+    This helped Facebook show users better interest based recommendations. 
+
