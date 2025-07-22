@@ -17,3 +17,14 @@
   summary: >-
     Describes a platform that lets retail investors pool commitments and due
     diligence costs to acquire private-equity stakes in startups.
+
+- title: "Do Computers Understand our Emotions"
+  publication: Blog on Gale, a Cengage Company 
+  date: 2018-03-27
+  link: https://blog.gale.com/do-computers-understand-our-emotions
+  summary: >-
+    An introduction to sentiment analysis that makes the case that computers don't actually understand emotions, 
+    but they can make educated guesses about sentiment by analyzing text using computational methods like sentiment analysis. 
+    While these tools can process vast amounts of text quickly and identify general positive or negative sentiment, 
+    they still fall short of human-level performance and struggle with nuances like sarcasm. 
+
