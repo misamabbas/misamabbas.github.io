@@ -2,28 +2,30 @@
 - event: NeurIPS 2025
   organization: Neural Information Processing Systems Conference
   date: 2025
+  link: https://neurips.cc/
   summary: >-
-    Served as an official ethics reviewer, assessing ethics compliance of
-    research submissions for both the Regular and the Datasets and Benchmarks
-    tracks.
+    Served as an official ethics reviewer, assessing compliance of research
+    submissions for both the Regular and the Datasets and Benchmarks tracks.
 
 - event: AI@Berkeley Hackathon 2025
   organization: UC Berkeley
   date: 2025
+  link: https://ai.hackberkeley.org/
   summary: >-
     Judge for the student-run AI hackathon, scoring projects on impact,
-    creativity and technical execution. (https://ai.hackberkeley.org/)
+    creativity and technical execution.
 
 - event: MindStudio Hackathon 2025
   organization: MindStudio
   date: 2025
+  link: https://www.mindstudio.ai/
   summary: >-
     Judged participants in the Agent Hackathon organized by MindStudio.ai.
 
 - event: Globee Artificial Intelligence Awards 2025
   organization: Globee Awards
   date: 2025
+  link: https://globeeawards.com/2025-judges-artificial-intelligence/
   summary: >-
-    Judge for the Globee Artificial Intelligence Awards, reviewing cutting-edge
+    Judge for the Globee Artificial Intelligence Awards, reviewing cutting‑edge
     AI products and solutions.
-    (https://globeeawards.com/2025-judges-artificial-intelligence/)

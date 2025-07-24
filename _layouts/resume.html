@@ -258,24 +258,36 @@
     {% endif %}
 
     {% if site.resume_section_judging %}
-    <!-- begin Judging -->
+    <!-- begin Review & Jury Roles -->
     <section class="content-section">
 
       <header class="section-header">
-        <h2>Judging</h2>
+        <h2>Review &amp; Jury Roles</h2>
       </header>
 
       {% for jd in site.data.judging %}
       <div class="resume-item" itemscope itemtype="http://schema.org/Role">
+
+        {% if jd.link %}
+        <h3 class="resume-item-title">
+          <a href="{{ jd.link }}" target="_blank" rel="noopener">{{ jd.event }}</a>
+        </h3>
+        {% else %}
         <h3 class="resume-item-title">{{ jd.event }}</h3>
-        <h4 class="resume-item-details">{{ jd.organization }} • {{ jd.date }}</h4>
+        {% endif %}
+
+        <h4 class="resume-item-details">
+          {{ jd.organization }} • {{ jd.date }}
+        </h4>
+
         <p class="resume-item-copy">{{ jd.summary }}</p>
       </div>
       {% endfor %}
 
     </section>
-    <!-- end Judging -->
+    <!-- end Review & Jury Roles -->
     {% endif %}
+
 
 
     {% if site.resume_section_links %}
