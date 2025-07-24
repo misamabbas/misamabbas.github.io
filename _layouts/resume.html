@@ -257,6 +257,27 @@
     <!-- end Interests -->
     {% endif %}
 
+    {% if site.resume_section_judging %}
+    <!-- begin Judging -->
+    <section class="content-section">
+
+      <header class="section-header">
+        <h2>Judging</h2>
+      </header>
+
+      {% for jd in site.data.judging %}
+      <div class="resume-item" itemscope itemtype="http://schema.org/Role">
+        <h3 class="resume-item-title">{{ jd.event }}</h3>
+        <h4 class="resume-item-details">{{ jd.organization }} • {{ jd.date }}</h4>
+        <p class="resume-item-copy">{{ jd.summary }}</p>
+      </div>
+      {% endfor %}
+
+    </section>
+    <!-- end Judging -->
+    {% endif %}
+
+
     {% if site.resume_section_links %}
     <!-- begin Links -->
     <section class="content-section">
