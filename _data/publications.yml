@@ -9,6 +9,16 @@
     exposure bias in score-based ranking systems by comparing outcomes of
     near-identical item pairs.
 
+- title: "A smarter way to evaluate LLM applications"
+  publication: "LeadDev"
+  type: "Technical Article"
+  date: 2025-07-30
+  link: https://leaddev.com/software-quality/smarter-way-evaluate-llm-applications
+  summary: >-
+    A structured evaluation framework for LLM systems that emphasizes defining clear objectives, 
+    using curated datasets pre-deployment, and ongoing quality assessment post-deployment 
+    via feedback and monitoring.
+
 - title: "Computer Method and System for Equity Financing by Retail Investors with Collective Due Diligence Funding"
   publication: "US Patent 7,827,081"
   type: Patent
