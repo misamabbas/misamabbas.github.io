@@ -1,15 +1,21 @@
 # links
 - url: "https://scholar.google.com/citations?user=u6suQ0MAAAAJ&hl=en"
   description: Google Scholar Profile
-- url: "https://github.com/misamabbas"
-  description: Github Profile
-- url: https://huggingface.co/ephipi""
-  description: HuggingFace Profile
+
 - url: "https://orcid.org/0009-0006-8276-4021"
   description: ORCID Page
+
+- url: "https://github.com/misamabbas"
+  description: Github Profile
+
+- url: "https://huggingface.co/ephipi"
+  description: HuggingFace Profile
+
 - url: "https://www.youtube.com/watch?v=sws-oSfy534"
   description: Video Interview after a conference on regulation vs innovation in AI
+
 - url: "https://www.threads.com/@misamabbas"
   description: Threads Page
+
 - url: "https://www.kaggle.com/misamabbas/"
   description: Kaggle Profile, Competitions Expert
