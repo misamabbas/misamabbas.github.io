@@ -9,6 +9,18 @@
     exposure bias in score-based ranking systems by comparing outcomes of
     near-identical item pairs.
 
+- title: "Attribution Quality in AI-Generated Content: Benchmarking Style Embeddings and LLM Judges"  
+  publication: "arXiv (PrePrint) Accepted for publication at ICDMW "  
+  type: "Research Article"  
+  date: 2025-10-14  
+  link: https://arxiv.org/abs/2510.13898  
+  summary: >-  
+    Proposes a benchmark for assessing attribution quality in AI-generated content by evaluating style embeddings 
+    alongside large-language-model Judges to determine how well generated output can be traced back to original sources.  
+    Accepted for presentation at the ICDM RARA Workshop (Grounding Documents with Reasoning, Agents, Retrieval, and Attribution) 
+    on 11/12/2025. https://raraworkshop.github.io/
+
+
 - title: "A smarter way to evaluate LLM applications"
   publication: "LeadDev"
   type: "Technical Article"
@@ -18,6 +30,30 @@
     A structured evaluation framework for LLM systems that emphasizes defining clear objectives, 
     using curated datasets pre-deployment, and ongoing quality assessment post-deployment 
     via feedback and monitoring.
+
+- title: "What Happens When You Change the Temperature of Your AI?"
+  publication: "HackerNoon"
+  type: "Technical Article"
+  date: 2025-10-14
+  link: https://hackernoon.com/what-happens-when-you-change-the-temperature-of-your-ai
+  summary: >-
+    Explains how the temperature parameter in large language models affects creativity, 
+    determinism, and output diversity, illustrating its real-world implications 
+    for reliability and user experience.
+
+- title: "Meet HackerNoon Contributor Misam Abbas: The LinkedIn Engineer Building Trustworthy AI Systems"
+  publication: "HackerNoon"
+  type: "Interview Feature"
+  date: 2025-08-14
+  link: https://hackernoon.com/meet-hackernoon-contributor-misam-abbas-the-linkedin-engineer-building-trustworthy-ai-systems
+  summary: >-
+    In this *Meet the Writer* interview, LinkedIn Staff AI Engineer Misam Abbas shares his 
+    journey from Meta and Dropbox to building trustworthy AI systems that balance ethics, 
+    diversity, and innovation. He discusses his writing process, fascination with AI 
+    temperature tuning, and the importance of explainability in large language models. 
+    Beyond code, Abbas champions mentorship, storytelling, and widening community 
+    participation in the evolution of AI.
+    
 
 - title: "Computer Method and System for Equity Financing by Retail Investors with Collective Due Diligence Funding"
   publication: "US Patent 7,827,081"
