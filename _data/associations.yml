@@ -1,6 +1,12 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: BCS
+  role: Fellow
+  year: 2025
+  url: https://www.bcs.org/
+  summary: Fellow since 2025
+
 - organization: IEEE
   role: Senior Member
   year: 2025
