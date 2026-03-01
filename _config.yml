@@ -23,13 +23,15 @@ resume_contact_address:         "Greater NY Area"
 resume_header_contact_info:     "m@misamabbas.com"
 display_header_contact_info:    "false"
 
-resume_header_intro:  >-
-  Misam Abbas is a Staff AI Engineer at LinkedIn, where he leads three cross-cutting GenAI reliability initiatives spanning pre-deployment evaluation, post-deployment monitoring, and AI-driven observability across the platform's GenAI product portfolio.
-  With over a decade of experience building large-scale ML systems, he has made significant contributions at Meta, Dropbox, and Cengage Learning.
-  At Meta, he developed user representation models serving billions and created fairness metrics for recommender systems with wide adoption.
-  At Dropbox, he laid the foundations of Dash.ai's AI-powered universal search using Retrieval Augmented Generation.
-  A conference speaker, peer reviewer (NeurIPS, IEEE Computer), and co-author of published AI research, his work focuses on eliminating critical bottlenecks to AI adoption while ensuring responsible deployment.
-  He holds an MBA (with Distinction) from London Business School and a B.Tech in Computer Science from IIT Delhi, and is a Fellow of BCS and IEEE Senior Member.
+resume_header_intro: |
+  Staff AI Engineer at LinkedIn leading three cross-cutting GenAI reliability initiatives spanning pre-deployment evaluation, post-deployment monitoring, and AI-driven observability across the platform's GenAI product portfolio.
+
+  - **LinkedIn** — Technical lead for GenAI reliability; LLM-as-a-judge evaluators, statistical annotation pipelines, pre-deployment evaluation framework, and agentic observability tooling.
+  - **Dropbox** — ML Tech Lead for Dash.ai; built hybrid lexical/vector search from scratch, bootstrapped evaluation with LLM-generated data, established the ML flywheel.
+  - **Meta** — User representation models (graph learning) serving billions; fairness metrics for recommender systems; diversity/engagement tuning across two product launches.
+  - **Cengage Learning** — Search and NLP systems for educational content platforms.
+
+  Conference speaker, peer reviewer (NeurIPS, IEEE Computer), and co-author of published AI research. MBA with Distinction from London Business School · B.Tech Computer Science from IIT Delhi · Fellow of BCS · IEEE Senior Member.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

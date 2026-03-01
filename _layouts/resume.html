@@ -36,7 +36,7 @@
       </div>
 
       <div class="executive-summary" itemprop="description">
-        {{ site.resume_header_intro }}
+        {{ site.resume_header_intro | markdownify }}
       </div>
 
       {% if site.resume_looking_for_work == 'yes' %}
