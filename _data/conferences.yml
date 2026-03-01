@@ -1,6 +1,24 @@
 # === _data/conferences.yml ===
 
 
+- organization: NHI-CON (Aembit)
+  venue: Virtual
+  date: 2026-01-27
+  topic: Talk - Engineering Robustness: Challenges in Quality Assurance and Performance Evaluation for Production LLMs
+  link: https://aembit.io/nhicon/
+  summary: >-
+    Delivered a presentation on the challenges of quality assurance and performance evaluation
+    for production LLMs, covering robustness engineering practices for real-world deployments.
+
+- organization: Agentic AI Summit (ODSC)
+  venue: Virtual
+  date: 2026-01-21
+  topic: Workshop - Building a Tool-Calling Agent from Scratch: Demystifying the Core Loop
+  link: https://odsc.ai
+  summary: >-
+    Led a hands-on workshop session demystifying the core agentic loop by building a
+    tool-calling agent from scratch, as part of the Agentic AI Summit.
+
 - organization: Western New England University
   venue: Springfield, MA
   date: 2025-08-28
