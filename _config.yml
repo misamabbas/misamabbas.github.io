@@ -24,12 +24,12 @@ resume_header_contact_info:     "m@misamabbas.com"
 display_header_contact_info:    "false"
 
 resume_header_intro:  >-
-  Misam Abbas is a Staff AI Engineer at LinkedIn currently working on GenAI Safety. 
-  With over a decade of experience building large-scale ML systems, he has made significant contributions at Meta and Dropbox. 
-  At Meta, he developed user representation models serving billions and created fairness metrics for recommender systems with wide adoption. 
-  At Dropbox, he laid the foundations of Dash.ai's AI-powered universal search. 
-  A conference speaker and co-author of AI research, his work eliminates critical bottlenecks to AI adoption while ensuring responsible deployment. 
-  He holds an MBA from London Business School and B.Tech in Computer Science from IIT Delhi.
+  Misam Abbas is a Staff AI Engineer at LinkedIn, where he leads three cross-cutting GenAI reliability initiatives spanning pre-deployment evaluation, post-deployment monitoring, and AI-driven observability across the platform's GenAI product portfolio.
+  With over a decade of experience building large-scale ML systems, he has made significant contributions at Meta, Dropbox, and Cengage Learning.
+  At Meta, he developed user representation models serving billions and created fairness metrics for recommender systems with wide adoption.
+  At Dropbox, he laid the foundations of Dash.ai's AI-powered universal search using Retrieval Augmented Generation.
+  A conference speaker, peer reviewer (NeurIPS, IEEE Computer), and co-author of published AI research, his work focuses on eliminating critical bottlenecks to AI adoption while ensuring responsible deployment.
+  He holds an MBA (with Distinction) from London Business School and a B.Tech in Computer Science from IIT Delhi, and is a Fellow of BCS and IEEE Senior Member.
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

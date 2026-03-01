@@ -4,30 +4,38 @@
   position: Staff AI Engineer
   duration: July 2024 - Present
   summary: >-
-    As the technical lead for GenAI safety, I ensure the safe deployment of Gen AI across LinkedIn. 
-    I lead the architecture, development and deployment of comprehensive frameworks for 
-    LLM monitoring.
+    Technical lead for three cross-cutting GenAI reliability initiatives spanning pre-deployment evaluation, post-deployment monitoring, and AI-driven observability across LinkedIn's GenAI product portfolio.
+    - Designed and deployed instruction-tuned, embedding-based weak judges and LLM-as-a-judge evaluators to detect violating content across all GenAI products, monitoring millions of member interactions daily.
+    - Built statistical estimation pipelines for human annotation sampling, TPR/TNR calibration, and periodic prevalence calculations.
+    - Architected a pre-deployment reliability evaluation framework that gates all GenAI deployments to production with standardized safety and quality thresholds.
+    - Led development of an agentic research tool that surfaces behavioral patterns from product usage logs, enabling proactive identification of opportunities to better serve members.
 
 
 # Senior Machine Learning Engineer At Dropbox
 - company: Dropbox
   position: Senior Machine Learning Engineer
   duration:  May 2023 - July 2024
-  summary: >- 
-    Team lead for Dash.ai , an AI-powered search and answers system
-    As the ML Tech Lead for Dash.ai, I led the retrieval effort for dash.ai, Dropbox's AI-powered universal search product. 
-    I built the search capability from the ground up, architecting a hybrid system combining lexical and vector search.
-    Established the ML flywheel for search, including retrieval, ranking, evaluation, metrics, and experimentations.
+  summary: >-
+    ML Tech Lead for Dash.ai, Dropbox's AI-powered universal search product.
+    - Built the search capability from the ground up, architecting a hybrid system combining lexical and vector search.
+    - Used LLM-generated documents and queries to bootstrap offline search evaluation and establish early benchmarks.
+    - Established the ML flywheel for search including retrieval, ranking, evaluation, metrics, and experimentation.
 
 
 # Software Engineer(Machine Learning) at Meta
 - company: Meta (previously Facebook)
-  position: Software Engineer(Machine Learning)
-  duration:  October 2018 - September 2022
+  position: Software Engineer (Machine Learning)
+  duration: October 2018 - September 2022
   summary: >-
-    At Meta, I worked on personalization, and user representation models for recommender systems , delivering significant, 
-    measurable impact on systems affecting billions of users.
-    Led a User Interest Modeling project that enabled a key partner team to achieve a 20% improvement on their primary metric 
-    by adapting user representation technology for interest modeling. 
-    This helped Facebook show users better interest based recommendations. 
+    Worked on personalization, user representation models, and fairness in recommender systems, delivering measurable impact on systems affecting billions of users.
+    - Developed general-purpose user representations using graph representation learning, driving adoption across Ads, FB Shops, and User Interest Profile teams.
+    - Adapted the technology for user interest modeling, enabling a partner team to achieve a 20% improvement on their primary metric.
+    - Developed ranking fairness metrics as part of Meta's Responsible AI organization, collaborating with partner teams to integrate continuous monitoring.
+    - Analyzed popularity bias in sourcing models and developed diversity/engagement tuning approaches instrumental in two product launches.
+
+- company: Cengage Learning
+  position: Software Engineer
+  duration: 2015 - 2018
+  summary: >-
+    Worked on search and NLP systems for educational content platforms, building foundational experience in information retrieval and natural language processing at scale.
 
