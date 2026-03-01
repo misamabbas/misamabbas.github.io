@@ -3,7 +3,7 @@
 - company: LinkedIn
   position: Staff AI Engineer
   duration: July 2024 - Present
-  summary: >-
+  summary: |
     Technical lead for three cross-cutting GenAI reliability initiatives spanning pre-deployment evaluation, post-deployment monitoring, and AI-driven observability across LinkedIn's GenAI product portfolio.
     - Designed and deployed instruction-tuned, embedding-based weak judges and LLM-as-a-judge evaluators to detect violating content across all GenAI products, monitoring millions of member interactions daily.
     - Built statistical estimation pipelines for human annotation sampling, TPR/TNR calibration, and periodic prevalence calculations.
@@ -14,8 +14,8 @@
 # Senior Machine Learning Engineer At Dropbox
 - company: Dropbox
   position: Senior Machine Learning Engineer
-  duration:  May 2023 - July 2024
-  summary: >-
+  duration: May 2023 - July 2024
+  summary: |
     ML Tech Lead for Dash.ai, Dropbox's AI-powered universal search product.
     - Built the search capability from the ground up, architecting a hybrid system combining lexical and vector search.
     - Used LLM-generated documents and queries to bootstrap offline search evaluation and establish early benchmarks.
@@ -26,7 +26,7 @@
 - company: Meta (previously Facebook)
   position: Software Engineer (Machine Learning)
   duration: October 2018 - September 2022
-  summary: >-
+  summary: |
     Worked on personalization, user representation models, and fairness in recommender systems, delivering measurable impact on systems affecting billions of users.
     - Developed general-purpose user representations using graph representation learning, driving adoption across Ads, FB Shops, and User Interest Profile teams.
     - Adapted the technology for user interest modeling, enabling a partner team to achieve a 20% improvement on their primary metric.
@@ -36,6 +36,5 @@
 - company: Cengage Learning
   position: Software Engineer
   duration: 2015 - 2018
-  summary: >-
+  summary: |
     Worked on search and NLP systems for educational content platforms, building foundational experience in information retrieval and natural language processing at scale.
-
